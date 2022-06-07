@@ -1,4 +1,4 @@
-Visualization [at] (https://babak-amini.github.io/police_killing_visual_analysis/)
+Visualization: [CLICK HERE](https://babak-amini.github.io/police_killing_visual_analysis/)
 
 This data is provided by the Bureau of Justice Statistics along with the FBI Uniform Crime Reporting Statistics. The belief is that locking away criminals with minimum sentencing has decreased violent crime since the 1980s. Therefore, the question is, are these high incarceration rates good for stopping crime, or are they counter productive? In the United States, one quarter of global prisoners are housed. This is obviously a high percentage given the United States is 4% of the global population.
 
